@@ -1,7 +1,4 @@
-## Follow these Conventions
 
-### Add your Profile
-    Add your profile page to the profiles directory using the given convention.
 
 > # Nikhil Kumar Gautam
 > ### Location
