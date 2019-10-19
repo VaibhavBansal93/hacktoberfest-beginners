@@ -1,3 +1,8 @@
+#### Name: [Vaibhav Bansal](https://github.com/VaibhavBanal93)
+ - Place: Harayana, India
+ - Bio: Computer Science Undergraduate from NIT Kurukshetra
+ - GitHub: [Vaibhav Bansal](https://github.com/VaibhavBansal93)
+ 
 #### Name: [Avinash Jaiswal](https://github.com/littlestar642)
  - Place: Surat, Gujarat, India
  - Bio: Traveller && Foodie && Web Developer === true
